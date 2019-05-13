@@ -1,6 +1,6 @@
 # Apurva Mithal
 
-Segmentation of MRI brain images for tumor detection.
+Project Title: Segmentation of MRI brain images for tumor detection.
 	    	              	             
 Language Used: Matlab    
                                                                                                                  
